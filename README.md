@@ -56,5 +56,3 @@ This project demonstrates the practical application of **machine learning, text 
 
 ---
 
-## 📂 Project Structure
-
